@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @artemisguardian
 - 👀 I’m interested in ...ArtemisVision.io
-- 🌱 I’m currently learning ...Blockchain
-- 💞️ I’m looking to collaborate on ...Like Minds
+- 🌱 I’m currently building ...The Social Media NFT revolution
+- 💞️ I’m looking to collaborate on ...Non fungible Tokens
 - 📫 How to reach me ...danny@artemisvision.io
 
 <!---
