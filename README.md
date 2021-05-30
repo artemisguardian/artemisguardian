@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @artemisguardian
-- 👀 I’m interested in ...ArtemisVison.io
+- 👀 I’m interested in ...ArtemisVision.io
 - 🌱 I’m currently learning ...Blockchain
 - 💞️ I’m looking to collaborate on ...Like Minds
 - 📫 How to reach me ...danny@artemisvision.io
